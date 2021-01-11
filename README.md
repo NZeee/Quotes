@@ -13,4 +13,4 @@ Tech Stack:
 Possible roadmap:
 * Using Compose for building UI;
 * Interacting with the quotes table (sort, delete);
-* Integratng KMP (maybe to WS managers).
+* Integrating KMP (maybe to work with WS).

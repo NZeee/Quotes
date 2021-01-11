@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Quotes</string>
+
+    <string name="quotes_title">Quotes</string>
+    <string name="quotes_header_quote">Instrument</string>
+    <string name="quotes_header_empty">No subscriptions</string>
+    <string name="quotes_header_bid_ask">BID / ASK</string>
+    <string name="quotes_header_spread">SPREAD</string>
+
+    <string name="subscriptions_title">Subscriptions</string>
+</resources>

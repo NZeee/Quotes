@@ -1,0 +1,15 @@
+# Build files and folders
+.gradle/
+build/
+*.apk
+*.aab
+
+# Properties
+local.properties
+
+# Idea
+.idea/
+**/*.iml
+
+# Mac OS
+.DS_Store

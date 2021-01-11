@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MenuTitle">
+    <item
+        android:id="@+id/tab_quotes"
+        android:icon="@drawable/ic_currency"
+        android:title="@string/quotes_title" />
+    <item
+        android:id="@+id/tab_subscriptions"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/subscriptions_title" />
+</menu>

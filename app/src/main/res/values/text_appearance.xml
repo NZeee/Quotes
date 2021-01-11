@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Quotes.Title" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+    </style>
+
+    <style name="TextAppearance.Quotes.ListItem" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
